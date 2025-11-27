@@ -1,6 +1,6 @@
 # Privacy Policy for PhishGuard KE Chrome Extension
 
-**Last Updated:** December 2024
+**Last Updated:** December 2025
 
 ## Overview
 
