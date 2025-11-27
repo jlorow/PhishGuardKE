@@ -158,11 +158,7 @@ PhishGuard KE is a Chrome extension designed to protect users from phishing webs
 ## Contact Information
 
 ### Questions or Concerns
-For privacy-related questions or concerns about this policy:
-
-- **GitHub Issues:** [Repository Issues Page]
-- **Email:** [Your Contact Email]
-- **Response Time:** We aim to respond within 48 hours
+If you have any questions or concerns about this Privacy Policy, please contact us through the Chrome Web Store page for the "PhishGuard KE - URL Scanner" Extension.
 
 ### Data Requests
 To request information about data processing or deletion:
